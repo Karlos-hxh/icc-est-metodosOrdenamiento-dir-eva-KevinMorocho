@@ -28,6 +28,6 @@ public class Car {
 
   @Override
   public String toString() {
-    return "Car [name=" + name + ", year=" + year + "]";
+    return "Car : " + name;
   }
 }
